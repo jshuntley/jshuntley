@@ -2,7 +2,7 @@
 
 I'm a cybersecurity student at Washington State University and a former U.S. Air Force Explosive Ordnance Disposal technician. I like building practical security labs, Linux infrastructure, automation, and systems projects.
 
-- 🎓 B.S. Cybersecurity @ Washington State University Tri-Cities — expected May 2028
+- 🎓 B.S. Cybersecurity @ Washington State University — expected May 2028
 - 🛡️ Focus areas: critical infrastructure security, detection engineering, and security-focused tooling
 - 🏠 Homelab: Proxmox, Linux, Docker, Wazuh, Pi-hole, DNSCrypt, Caddy, Cloudflare, and Twingate
 - 🎖️ Background: 9+ years U.S. Air Force EOD with threat analysis, incident response, robotics testing, and interagency technical operations
