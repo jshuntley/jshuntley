@@ -8,16 +8,6 @@ I'm a cybersecurity student at Washington State University and a former U.S. Air
 - 🎖️ Background: 9+ years U.S. Air Force EOD with threat analysis, incident response, robotics testing, and interagency technical operations
 - 📫 Reach me: [josh@jshuntley.com](mailto:josh@jshuntley.com) | [jshuntley.com](https://jshuntley.com) | [LinkedIn](https://www.linkedin.com/in/jshuntley)
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jshuntley&show_icons=true&theme=tokyonight&hide_border=true" alt="Josh's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshuntley&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 <p align="center">
