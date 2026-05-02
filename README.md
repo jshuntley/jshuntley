@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Josh 👋
 
-<!--
-**jshuntley/jshuntley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity student at Washington State University and a former U.S. Air Force Explosive Ordnance Disposal technician. I like building practical security labs, Linux infrastructure, automation, and systems projects.
 
-Here are some ideas to get you started:
+- 🎓 B.S. Cybersecurity @ Washington State University Tri-Cities — expected May 2028
+- 🛡️ Focus areas: critical infrastructure security, detection engineering, and security-focused tooling
+- 🏠 Homelab: Proxmox, Linux, Docker, Wazuh, Pi-hole, DNSCrypt, Caddy, Cloudflare, and Twingate
+- 🎖️ Background: 9+ years U.S. Air Force EOD with threat analysis, incident response, robotics testing, and interagency technical operations
+- 📫 Reach me: [josh@jshuntley.com](mailto:josh@jshuntley.com) | [jshuntley.com](https://jshuntley.com) | [LinkedIn](https://www.linkedin.com/in/jshuntley)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jshuntley&show_icons=true&theme=tokyonight&hide_border=true" alt="Josh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshuntley&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  Always learning.
+</p>
