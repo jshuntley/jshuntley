@@ -17,7 +17,7 @@ jobs:
       - name: Generate stats card
         run: |
           mkdir -p profile
-          curl -fsSL "https://github-readme-stats.vercel.app/api?username=${GITHUB_REPOSITORY_OWNER}&show_icons=true&theme=transparent&hide_border=true" -o profile/stats.svg
+          curl -fsSL "https://github-readme-stats-nu-nine-69.vercel.app/api?username=${GITHUB_REPOSITORY_OWNER}&show_icons=true&theme=transparent&hide_border=true" -o profile/stats.svg
 
       - name: Commit card
         run: |
